@@ -139,7 +139,7 @@ This project is open-source and available under the [MIT License](LICENSE). Feel
 ---
 
 ## **Support**
-If you encounter any issues or have questions, feel free to open an issue in this repository or contact me at [your-email@example.com](mailto:your-email@example.com).
+If you encounter any issues or have questions, feel free to open an issue in this repository or contact me at [minthukywe2020@gmail.com](mailto:minthukywe2020@gmail.com).
 
 ---
 
