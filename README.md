@@ -1,8 +1,7 @@
-# profit-predict
+# Profit Prediction using Linear Regression  
+**With Jupyter Notebook**
 
-# Profit Prediction using Linear Regression
-
-This project demonstrates how to build a linear regression model to predict profit based on features like R&D Spend, Administration, Marketing Spend, and State. The dataset used is `profit.csv`, which contains 50 entries with numerical and categorical features.
+This Jupyter Notebook demonstrates how to build a linear regression model to predict profit based on features like R&D Spend, Administration, Marketing Spend, and State. The dataset used is `profit.csv`, which contains 50 entries with numerical and categorical features.
 
 ---
 
@@ -21,9 +20,9 @@ Before running the code, ensure you have the following installed:
 - Python 3.x
 - Required Python libraries:
   ```bash
-  pip install numpy pandas seaborn matplotlib scikit-learn statsmodels
+  pip install numpy pandas seaborn matplotlib scikit-learn statsmodels jupyter
   ```
-- Jupyter Notebook (optional, for running `.ipynb` files).
+- Jupyter Notebook (to run the `.ipynb` file).
 
 ---
 
@@ -36,21 +35,20 @@ Before running the code, ensure you have the following installed:
    ```
 
 2. **Download the Dataset**  
-   Ensure the dataset `profit.csv` is in the same directory as the script or notebook.
+   Ensure the dataset `profit.csv` is in the same directory as the notebook.
+
+3. **Launch Jupyter Notebook**  
+   Start Jupyter Notebook:
+   ```bash
+   jupyter notebook
+   ```
+   Open the `.ipynb` file from the Jupyter Notebook interface.
 
 ---
 
 ## **Running the Code**
-1. **Using Jupyter Notebook**  
-   - Open the `.ipynb` file in Jupyter Notebook.
-   - Run each cell sequentially to execute the code.
-
-2. **Using Python Script**  
-   - Save the code in a `.py` file (e.g., `profit_prediction.py`).
-   - Run the script using:
-     ```bash
-     python profit_prediction.py
-     ```
+1. Open the `.ipynb` file in Jupyter Notebook.
+2. Run each cell sequentially to execute the code.
 
 ---
 
@@ -143,4 +141,4 @@ If you encounter any issues or have questions, feel free to open an issue in thi
 
 ---
 
-Enjoy exploring the profit prediction model! 🚀
+Enjoy exploring the profit prediction model in Jupyter Notebook! 🚀
